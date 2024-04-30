@@ -1,4 +1,3 @@
-package mat;
 public class variable{
 public double value;
 public Double derivative=0.0;
