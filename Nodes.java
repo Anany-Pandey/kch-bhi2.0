@@ -1,4 +1,3 @@
-package mat;
 public class Nodes{
 variable lv=null;
 variable rv=null;
